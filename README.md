@@ -31,3 +31,16 @@ An interactive dashboard created with Streamlit to visualize and analyze missing
 git clone https://github.com/matheus-brito-dev/ethics-dash.git
 cd ethics-dash
 streamlit run app.py
+```
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+- **Author:** Matheus Brito  
+- **Email:** matheusbrito@ifba.edu.br 
+- **GitHub:** [https://github.com/matheus-brito-dev](https://github.com/matheus-brito-dev)
+
+
