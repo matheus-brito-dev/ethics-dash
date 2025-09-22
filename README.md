@@ -29,5 +29,5 @@ An interactive dashboard created with Streamlit to visualize and analyze missing
 
 ```bash
 git clone https://github.com/matheus-brito-dev/ethics-dash.git
-cd missing-persons-dashboard
+cd ethics-dash
 streamlit run app.py
