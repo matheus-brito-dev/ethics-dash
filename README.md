@@ -1,5 +1,7 @@
 # Missing Persons Dashboard
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17172681.svg)](https://doi.org/10.5281/zenodo.17172681)
+
 An interactive dashboard created with Streamlit to visualize and analyze missing persons cases in the state of Paraíba. The project serves only as a proof of concept for the presented research.
 ---
 
