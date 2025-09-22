@@ -28,6 +28,6 @@ An interactive dashboard created with Streamlit to visualize and analyze missing
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/missing-persons-dashboard.git
+git clone https://github.com/matheus-brito-dev/ethics-dash.git
 cd missing-persons-dashboard
 streamlit run app.py
