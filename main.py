@@ -10,8 +10,8 @@ from selenium.webdriver.chrome.options import Options
 driver = webdriver.Chrome()
 dados = []
 
-# Cria pasta para salvar imagens
-os.makedirs('imagens', exist_ok=True)
+# Cria pasta para salvar images
+os.makedirs('images', exist_ok=True)
 
 import re
 import mimetypes
@@ -31,7 +31,7 @@ def salvar_imagem_base64(img_src, nome_base, i):
             base64_data += '=' * (4 - missing_padding)
 
         ext = mimetypes.guess_extension(mime_type) or '.jpg'
-        nome_arquivo = f"imagens/{nome_base}_{i}{ext}"
+        nome_arquivo = f"images/{nome_base}_{i}{ext}"
 
         with open(nome_arquivo, 'wb') as f:
             f.write(base64.b64decode(base64_data))
@@ -88,14 +88,14 @@ try:
             #             print(f"[DEBUG] Tamanho base64: {len(base64_data)}")
             #             if missing_padding:
             #                 base64_data += '=' * (4 - missing_padding)
-            #             nome_arquivo = f"imagens/pessoa_{i}.jpg"
+            #             nome_arquivo = f"images/pessoa_{i}.jpg"
             #             with open(nome_arquivo, 'wb') as f:
             #                 f.write(base64.b64decode(base64_data))
             #             detalhes_extraidos["imagem_local"] = nome_arquivo
             #         elif "no-picture" not in img_src:  # imagem externa comum
             #             response = requests.get(img_src, stream=True)
             #             if response.status_code == 200:
-            #                 nome_arquivo = f"imagens/pessoa_{i}.jpg"
+            #                 nome_arquivo = f"images/pessoa_{i}.jpg"
             #                 with open(nome_arquivo, 'wb') as f:
             #                     for chunk in response.iter_content(1024):
             #                         f.write(chunk)
@@ -158,4 +158,4 @@ with open('csv/encontrados.csv', mode='w', newline='', encoding='utf-8') as f:
     writer.writeheader()
     writer.writerows(dados)
 
-print("✅ Dados e imagens salvos com sucesso!")
+print("✅ Dados e images salvos com sucesso!")
