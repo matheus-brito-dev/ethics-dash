@@ -25,6 +25,14 @@ An interactive dashboard created with Streamlit to visualize and analyze missing
 
 ---
 
+
+## Archived Version and Citation
+The code and data for this research have been archived at Zenodo. To cite this exact version used in the publication, please use the DOI:
+
+[https://doi.org/10.5281/zenodo.17172681](https://doi.org/10.5281/zenodo.17172681)
+
+---
+
 ## Installation
 
 1. Clone this repository:
