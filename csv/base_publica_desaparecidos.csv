@@ -1,0 +1,387 @@
+id,faixa_etaria,sexo,estado,cidade,bairro,tempo_desaparecido_dias,cor_olhos,tipo_cabelo,estava_acompanhada,estado_civil,cidade_desaparecimento,data_ocorrido_desaparecimento,encontrado
+1,18-29,Masculino,PB,Juazeirinho,Arnaldo lafaerty,1542.0,Pretos,Ondulados,Não,Solteiro (a),Juazeirinho,2021-05-14T11:00:00.000+0000,0
+2,45-59,Masculino,PE,Vertente do Lério,Centro,897.0,Castanhos,Encaracolados,Não,Solteiro (a),Sousa,2023-02-18T10:00:00.000+0000,0
+3,30-44,Masculino,PB,Umbuzeiro,UMBURETAMA,1544.0,Castanhos,Ondulados,Não,Solteiro (a),Umbuzeiro,2021-05-12T12:00:00.000+0000,0
+4,18-29,Masculino,BA,Salvador,Manaira,1042.0,Pretos,Encaracolados,Não,Solteiro (a),João Pessoa,2022-09-26T11:00:00.000+0000,0
+5,30-44,Masculino,PB,Campina Grande,Jardim Paulistano,579.0,Castanhos,Lisos,Não,Solteiro (a),Campina Grande,2024-01-02T18:17:00.000+0000,1
+6,12-17,Feminino,PB,João Pessoa,Água Fria,752.0,Castanhos,Ondulados,Não,Solteiro (a),João Pessoa,2023-07-12T23:15:00.000+0000,0
+7,12-17,Masculino,PB,Campina Grande,Nossa Senhora da Conceição,2133.0,Pretos,Encaracolados,Não,Solteiro (a),Conde,2019-10-01T15:50:00.000+0000,0
+8,18-29,Masculino,PB,Campina Grande,Zona Rural,991.0,Castanhos,Encaracolados,Não,Solteiro (a),Boa Vista,2022-11-16T02:00:00.000+0000,0
+9,30-44,Masculino,PB,Campina Grande,Tambauzinho,818.0,Castanhos,Lisos,Não,Solteiro (a),João Pessoa,2023-05-08T11:30:00.000+0000,0
+10,12-17,Masculino,PB,Campina Grande,Tambor,-1.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+11,18-29,Masculino,RJ,Cabo Frio,Pedro Gondim,1036.0,Castanhos,Ondulados,Sim,Solteiro (a),João Pessoa,2022-10-02T10:22:00.000+0000,0
+12,60+,Masculino,CE,Barro,Jardim São Paulo,5684.0,Pretos,Lisos,Não,Solteiro (a),Cajazeiras,2010-01-10T12:50:00.000+0000,0
+13,45-59,Masculino,PB,João Pessoa,Ernani Sátiro,651.0,Pretos,Lisos,Não,Solteiro (a),João Pessoa,2023-10-22T19:00:00.000+0000,0
+14,45-59,Masculino,PB,Campina Grande,Catolé,970.0,Castanhos,Ondulados,Não,Divorciado (a),João Pessoa,2022-12-07T18:00:00.000+0000,0
+15,30-44,Feminino,PE,TIMBAUBA,RUA COSTUREIRA RODRIGUES ALVES,796.0,Castanhos,Ondulados,Não,Solteiro (a),João Pessoa,2023-05-30T08:00:00.000+0000,0
+16,18-29,Masculino,PB,Patos,São Sebastião,1089.0,Castanhos,Lisos,Sim,Solteiro (a),Patos,2022-08-09T19:54:00.000+0000,0
+17,30-44,Masculino,PB,Queimadas,Castanho,-1.0,Castanhos,Ondulados,Sim,Solteiro (a),Desconhecido,Desconhecido,0
+18,18-29,Masculino,BA,Sobradinho,Valentina de Figueiredo,-1.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+19,18-29,Masculino,RN,Natal,natal,2014.0,Castanhos,Lisos,Não,União Estável,Campina Grande,2020-01-28T12:06:00.000+0000,0
+20,18-29,Masculino,PB,João Pessoa,Valentina de Figueiredo,1388.0,Pretos,Lisos,Não,Solteiro (a),João Pessoa,2021-10-15T18:00:00.000+0000,0
+21,18-29,Masculino,AL,Maceió,Mangabeira,1149.0,Verdes,Lisos,Não,Solteiro (a),João Pessoa,2022-06-11T10:00:00.000+0000,0
+22,30-44,Masculino,PE,CARUARU,NOVA PALESTINA,1537.0,Castanhos,Lisos,Não,Casado (a),Cajazeiras,2021-05-19T10:00:00.000+0000,0
+23,60+,Feminino,PB,João Pessoa,Gramame,589.0,Castanhos,Nenhuma das opções,Não,Casado (a),Desconhecido,2023-12-23T09:00:00.000+0000,0
+24,18-29,Feminino,PB,João Pessoa,Bancários,1292.0,Castanhos,Ondulados,Não,Solteiro (a),João Pessoa,2022-01-18T22:30:00.000+0000,0
+25,12-17,Masculino,PB,Conde,Centro,1856.0,Castanhos,Lisos,Não,Solteiro (a),Conde,2020-07-03T20:00:00.000+0000,0
+26,30-44,Masculino,PB,Mari,SILVINO COSTA,2223.0,Castanhos,Encaracolados,Não,Solteiro (a),Mari,2019-07-02T22:20:00.000+0000,0
+27,0-11,Feminino,PB,Monteiro,Multirao,-1.0,Castanhos,Lisos,Sim,Solteiro (a),Desconhecido,Desconhecido,0
+28,30-44,Masculino,BA,Salvador,Mussurunga 2,994.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,2022-11-13T15:00:00.000+0000,0
+29,60+,Masculino,BA,Itabuna,Mangabeira,1248.0,Pretos,Lisos,Não,Casado (a),João Pessoa,2022-03-04T16:00:00.000+0000,0
+30,60+,Masculino,PB,Santa Rita,Aldeia Monte Mor,1389.0,Verdes,Lisos,Não,Solteiro (a),Rio Tinto,2021-10-14T17:00:00.000+0000,0
+31,60+,Masculino,PB,Itabaiana,Manaíra,2185.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,2019-08-10T12:30:00.000+0000,0
+32,30-44,Masculino,PB,Patos,Centro,1206.0,Castanhos,Nenhuma das opções,Não,Solteiro (a),Patos,2022-04-15T11:00:00.000+0000,0
+33,30-44,Feminino,PB,Guarabira,Multirão,-1.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+34,45-59,Masculino,PB,Sapé,ZONA RURAL,-1.0,Castanhos,Nenhuma das opções,Não,Solteiro (a),Desconhecido,Desconhecido,0
+35,45-59,Masculino,RN,Passa e Fica,Americanópolis,1499.0,Castanhos,Lisos,Não,Solteiro (a),Guarabira,2021-06-26T17:00:00.000+0000,0
+36,18-29,Masculino,PB,Santa Rita,Tibiri 2,1332.0,Pretos,Encaracolados,Não,Solteiro (a),Santa Rita,2021-12-10T04:00:00.000+0000,0
+37,30-44,Masculino,RN,Maxaranguape,CENTRO,1460.0,Castanhos,Lisos,Não,Solteiro (a),Pitimbu,2021-08-04T13:00:00.000+0000,0
+38,45-59,Masculino,PB,Teixeira,Zona rural,1319.0,Pretos,Lisos,Não,Solteiro (a),Desconhecido,2021-12-23T02:00:00.000+0000,0
+39,0-11,Masculino,PB,JOAO PESSOA,Ernesto Geisel,1314.0,Castanhos,Ondulados,Não,União Estável,Bayeux,2021-12-27T23:31:00.000+0000,0
+40,18-29,Feminino,PB,JOAO PESSOA,PRAIA DE JACUMA,680.0,Pretos,Lisos,Sim,Solteiro (a),Conde,2023-09-23T17:55:00.000+0000,0
+41,45-59,Masculino,RO,Porto Velho,Expedicionários,1773.0,Castanhos,Ondulados,Não,Casado (a),João Pessoa,2020-09-25T14:00:00.000+0000,0
+42,60+,Masculino,PB,Esperança,Em situação de rua,1553.0,Azuis,Lisos,Não,Solteiro (a),Desconhecido,2021-05-03T03:00:00.000+0000,0
+43,45-59,Feminino,PB,Patos,Jardim São Paulo,658.0,Castanhos,Ondulados,Não,Solteiro (a),João Pessoa,2023-10-15T10:00:00.000+0000,0
+44,60+,Masculino,AL,Arapiraca,Catiapoa,961.0,Castanhos,Nenhuma das opções,Não,Viúvo (a),João Pessoa,2022-12-16T11:00:00.000+0000,0
+45,45-59,Masculino,PB,Cajazeiras,Por do sol,1857.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,2020-07-03T16:00:00.000+0000,0
+46,60+,Masculino,PB,Santa Rita,Centro,1899.0,Pretos,Lisos,Não,Divorciado (a),Bayeux,2020-05-22T09:10:00.000+0000,0
+47,12-17,Feminino,PB,Campina Grande,Serrotão,793.0,Castanhos,Ondulados,Não,Solteiro (a),Campina Grande,2023-06-02T01:00:00.000+0000,0
+48,30-44,Masculino,PB,Quixaba,Zona Rural,-1.0,Pretos,Nenhuma das opções,Não,Solteiro (a),Desconhecido,Desconhecido,0
+49,30-44,Masculino,PB,João Pessoa,Gramame,614.0,Nenhuma das opções,Nenhuma das opções,Sim,Solteiro (a),João Pessoa,2023-11-27T21:00:00.000+0000,0
+50,45-59,Masculino,PB,Aguiar,RURAL,1578.0,Castanhos,Encaracolados,Não,Divorciado (a),Aguiar,2021-04-08T18:30:00.000+0000,0
+51,18-29,Masculino,PB,João Pessoa,Manaíra,-1.0,Verdes,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+52,60+,Masculino,PB,Santa Rita,GAMELEIRA,1308.0,Castanhos,Lisos,Não,Solteiro (a),Lucena,2022-01-03T09:00:00.000+0000,0
+53,30-44,Masculino,RN,Río grande do Norte,Centro,-1.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+54,45-59,Masculino,PB,Patos,Vila Tibiri,1754.0,Pretos,Ondulados,Não,Solteiro (a),Santa Rita,2020-10-14T11:30:00.000+0000,0
+55,12-17,Masculino,PB,CAMPINA GRANDE,Nações,608.0,Castanhos,Encaracolados,Não,Solteiro (a),Campina Grande,2023-12-04T16:40:00.000+0000,0
+56,30-44,Masculino,RJ,Rio de Janeiro,Padre Miguel,2418.0,Pretos,Ondulados,Não,Casado (a),Riachão,2018-12-20T15:30:00.000+0000,0
+57,60+,Feminino,PB,João Pessoa,Roger,687.0,Pretos,Encaracolados,Não,Divorciado (a),João Pessoa,2023-09-16T12:00:00.000+0000,0
+58,30-44,Masculino,PB,Patos,Planalto Boa Esperança,-1.0,Pretos,Nenhuma das opções,Não,Solteiro (a),Desconhecido,Desconhecido,0
+59,30-44,Feminino,PB,João Pessoa,Valentina de Figueiredo,-1.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+60,12-17,Masculino,PB,Sousa,SÃO GONÇALO,-1.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+61,12-17,Masculino,SP,Diadema,Centro,1481.0,Castanhos,Carapinha,Não,Casado (a),Cajazeiras,2021-07-14T14:30:00.000+0000,0
+62,30-44,Masculino,GO,Goiânia,Jardim Sorrilândia I,1413.0,Pretos,Lisos,Não,Solteiro (a),Sousa,2021-09-19T23:00:00.000+0000,0
+63,18-29,Feminino,RN,Mossoró,Centro,680.0,Castanhos,Lisos,Sim,Solteiro (a),Conde,2023-09-23T17:55:00.000+0000,0
+64,60+,Feminino,PB,CAMPINA GRANDE,PEDREGAL,-1.0,Verdes,Lisos,Não,Viúvo (a),Desconhecido,Desconhecido,0
+65,12-17,Feminino,PB,Sousa,Estação,-1.0,Castanhos,Encaracolados,Sim,Solteiro (a),Desconhecido,Desconhecido,0
+66,12-17,Feminino,PB,Campina grande,Aluízio campos,-1.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+67,60+,Masculino,SC,Blumenau,JACUMÃ,1394.0,Verdes,Nenhuma das opções,Não,Solteiro (a),Conde,2021-10-09T03:00:00.000+0000,0
+68,12-17,Feminino,PB,João Pessoa,SEM BAIRRO,5138.0,Castanhos,Lisos,Não,Solteiro (a),Pedras de Fogo,2011-07-09T21:00:00.000+0000,0
+69,45-59,Masculino,PB,Pilar,Marcos Moura,1516.0,Pretos,Carapinha,Não,Solteiro (a),Santa Rita,2021-06-09T13:03:00.000+0000,0
+70,45-59,Masculino,PB,João Pessoa,Cuiá,-1.0,Pretos,Carapinha,Não,Casado (a),Desconhecido,Desconhecido,0
+71,30-44,Masculino,SP,Guarulhos,Jardim oceania,757.0,Pretos,Nenhuma das opções,Não,Solteiro (a),João Pessoa,2023-07-07T21:00:00.000+0000,0
+72,30-44,Masculino,PB,João Pessoa,Cruz das Armas,1466.0,Castanhos,Lisos,Não,Solteiro (a),João Pessoa,2021-07-29T17:30:00.000+0000,0
+73,18-29,Masculino,PB,Picuí,Centro,1876.0,Pretos,Lisos,Não,Solteiro (a),Picuí,2020-06-14T02:45:00.000+0000,0
+74,45-59,Masculino,PB,joao pessoa,Jardim Oceania,1154.0,Castanhos,Lisos,Não,Casado (a),Desconhecido,2022-06-06T16:00:00.000+0000,0
+75,12-17,Feminino,PB,João Pessoa,Jaguaribe,1085.0,Pretos,Encaracolados,Sim,Solteiro (a),João Pessoa,2022-08-13T21:00:00.000+0000,0
+76,45-59,Masculino,PB,Bayeux,Gramame,1350.0,Nenhuma das opções,Lisos,Não,Solteiro (a),João Pessoa,2021-11-22T16:00:00.000+0000,0
+77,45-59,Masculino,PB,Queimadas,Castanho de cima,-1.0,Castanhos,Nenhuma das opções,Não,Solteiro (a),Desconhecido,Desconhecido,0
+78,12-17,Feminino,PB,JOAO PESSOA,Varjão,-1.0,Castanhos,Encaracolados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+79,45-59,Masculino,PB,Joao Pessoa,Estados,954.0,Castanhos,Nenhuma das opções,Não,Viúvo (a),João Pessoa,2022-12-23T00:06:00.000+0000,0
+80,18-29,Feminino,PB,Rio Tinto,MIRAMAR,469.0,Verdes,Ondulados,Não,Solteiro (a),João Pessoa,2024-04-21T00:25:00.000+0000,0
+81,30-44,Masculino,PB,João pessoa,Gramame,1669.0,Castanhos,Lisos,Sim,Casado (a),João Pessoa,2021-01-06T21:00:00.000+0000,0
+82,30-44,Masculino,PB,Joao pessoa,Castelo Branco,413.0,Castanhos,Nenhuma das opções,Não,Divorciado (a),Desconhecido,2024-06-16T00:50:00.000+0000,0
+83,12-17,Masculino,PB,joao pessoa,Gramame,-1.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+84,30-44,Masculino,PB,Cuité,Santo Antônio,4091.0,Castanhos,Lisos,Não,Casado (a),Campina Grande,2014-05-22T12:00:00.000+0000,0
+85,12-17,Masculino,PB,João Pessoa,Jaguaribe,1085.0,Pretos,Carapinha,Sim,Solteiro (a),João Pessoa,2022-08-13T21:00:00.000+0000,0
+86,45-59,Feminino,SP,São Paulo,Tambauzinho,702.0,Castanhos,Lisos,Não,Solteiro (a),João Pessoa,2023-09-01T19:22:00.000+0000,0
+87,60+,Masculino,PB,Santa Rita,Centro,1820.0,Castanhos,Lisos,Não,Viúvo (a),Santa Rita,2020-08-08T22:57:00.000+0000,0
+88,30-44,Masculino,PE,MARAIAL,ROÇADINHO,1954.0,Castanhos,Lisos,Não,Casado (a),Desconhecido,2020-03-27T20:00:00.000+0000,0
+89,12-17,Feminino,PB,Cabedelo,Ponta de Matos,-1.0,Castanhos,Lisos,Sim,Solteiro (a),Desconhecido,Desconhecido,0
+90,30-44,Masculino,DF,GAMA,Malvinas,1837.0,Pretos,Encaracolados,Não,Solteiro (a),Campina Grande,2020-07-23T12:00:00.000+0000,0
+91,30-44,Masculino,PB,Patos,Santo Antônio,1282.0,Castanhos,Encaracolados,Não,Solteiro (a),Patos,2022-01-29T00:30:00.000+0000,0
+92,45-59,Feminino,PB,Campina Grande,Ernesto Geisel,4119.0,Castanhos,Lisos,Não,Casado (a),João Pessoa,2014-04-24T18:00:00.000+0000,0
+93,45-59,Feminino,MG,Sete Lagoas,Manaíra,-1.0,Castanhos,Lisos,Não,Casado (a),Desconhecido,Desconhecido,0
+94,30-44,Masculino,PB,João Pessoa,Gramame,1304.0,Castanhos,Lisos,Não,Solteiro (a),João Pessoa,2022-01-07T18:00:00.000+0000,0
+95,18-29,Feminino,PB,Boa Ventura,centro,1841.0,Castanhos,Nenhuma das opções,Não,União Estável,Desconhecido,2020-07-19T13:49:00.000+0000,0
+96,60+,Feminino,PB,Piancó,CENTRO,-1.0,Castanhos,Lisos,Sim,Solteiro (a),Desconhecido,Desconhecido,0
+97,12-17,Feminino,PB,Esperança,Serrotão,1498.0,Castanhos,Lisos,Não,Solteiro (a),Campina Grande,2021-06-26T20:00:00.000+0000,0
+98,0-11,Feminino,PB,Campina Grande,Jeremias,706.0,Castanhos,Encaracolados,Sim,Casado (a),Campina Grande,2023-08-28T15:00:00.000+0000,0
+99,12-17,Feminino,PB,João Pessoa,Padre Zé,-1.0,Pretos,Ondulados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+100,30-44,Masculino,PB,Pedra Branca,CENTRO,1661.0,Pretos,Lisos,Não,Solteiro (a),Pedra Branca,2021-01-15T11:00:00.000+0000,0
+101,30-44,Feminino,PE,Serra Talhada,Cruz das armas,484.0,Castanhos,Lisos,Não,União Estável,João Pessoa,2024-04-06T02:30:00.000+0000,0
+102,45-59,Masculino,RS,Porto Alegre,Jardim Cidade Universitária,-1.0,Verdes,Nenhuma das opções,Não,Solteiro (a),Desconhecido,Desconhecido,0
+103,30-44,Masculino,PB,Patos,São Sebastião,1259.0,Pretos,Nenhuma das opções,Não,Casado (a),Patos,2022-02-21T15:17:00.000+0000,0
+104,30-44,Masculino,BA,Salvador,Itararé,976.0,Castanhos,Nenhuma das opções,Sim,Casado (a),Campina Grande,2022-12-01T02:56:00.000+0000,0
+105,30-44,Masculino,PB,Triunfo,Centro,1839.0,Pretos,Lisos,Não,Divorciado (a),Cajazeiras,2020-07-21T13:00:00.000+0000,0
+106,30-44,Masculino,PB,Pombal,CENTRO,-1.0,Pretos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+107,30-44,Masculino,MG,Frei Gonzaga,Rio Verde,1939.0,Pretos,Ondulados,Não,Solteiro (a),Paulista,2020-04-12T01:15:00.000+0000,0
+108,Não informado,Masculino,PB,Mamanguape,Campos,1865.0,Castanhos,Lisos,Não,Solteiro (a),Mamanguape,2020-06-25T17:30:00.000+0000,0
+109,18-29,Masculino,PB,Bananeiras,Maia,-1.0,Pretos,Carapinha,Não,Solteiro (a),Desconhecido,Desconhecido,0
+110,18-29,Masculino,PB,Umbuzeiro,CENTRO,-1.0,Pretos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+111,12-17,Feminino,PB,João Pessoa,Roger,-1.0,Castanhos,Ondulados,Sim,Solteiro (a),Desconhecido,Desconhecido,0
+112,60+,Masculino,PE,Recife,Centro,512.0,Castanhos,Lisos,Não,Casado (a),Pitimbu,2024-03-09T03:00:00.000+0000,0
+113,60+,Masculino,PB,Gurinhém,Centro,496.0,Castanhos,Ondulados,Não,Solteiro (a),João Pessoa,2024-03-25T14:30:00.000+0000,0
+114,18-29,Masculino,PB,João Pessoa,Comercial Norte,-1.0,Pretos,Encaracolados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+115,18-29,Feminino,AL,Piranhas,Tibiri,1883.0,Castanhos,Ondulados,Sim,União Estável,João Pessoa,2020-06-07T10:00:00.000+0000,0
+116,18-29,Masculino,PB,Paraíba,Santa Cruz,1087.0,Castanhos,Carapinha,Não,Solteiro (a),Campina Grande,2022-08-12T12:30:00.000+0000,0
+117,60+,Masculino,PB,Campina Grande,Santa Cruz,2203.0,Pretos,Carapinha,Não,Casado (a),Campina Grande,2019-07-23T13:00:00.000+0000,0
+118,60+,Feminino,PB,Campina Grande,Malvinas,-1.0,Castanhos,Ondulados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+119,30-44,Masculino,PB,SAO MAMEDE,CENTRO,1329.0,Castanhos,Lisos,Não,Casado (a),Desconhecido,2021-12-13T02:15:00.000+0000,0
+120,12-17,Masculino,PB,Santa Rita,Jardim Aeroporto,-1.0,Pretos,Encaracolados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+121,30-44,Masculino,PE,Jaboatão dos Guararapes,ZONA RURAL,-1.0,Pretos,Encaracolados,Não,Casado (a),Desconhecido,Desconhecido,0
+122,30-44,Masculino,PB,São Mamede,Intermares,460.0,Castanhos,Nenhuma das opções,Não,Casado (a),João Pessoa,2024-04-30T11:00:00.000+0000,0
+123,45-59,Feminino,PB,Campina Grande,Serrotão,1813.0,Castanhos,Ondulados,Não,Solteiro (a),Desconhecido,2020-08-16T08:30:00.000+0000,0
+124,30-44,Masculino,PB,Patos,Matadouro,-1.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+125,60+,Masculino,PB,Campina Grande,Nova Brasília,1282.0,Castanhos,Lisos,Sim,Casado (a),Campina Grande,2022-01-29T12:00:00.000+0000,0
+126,45-59,Feminino,PB,João Pessoa,Tambaú,-1.0,Castanhos,Lisos,Não,Casado (a),Desconhecido,Desconhecido,0
+127,30-44,Feminino,PB,João Pessoa,Lauritzen,2233.0,Castanhos,Lisos,Sim,Casado (a),Campina Grande,2019-06-22T21:00:00.000+0000,0
+128,30-44,Masculino,PB,Bananeiras,funcionarios,2526.0,Castanhos,Lisos,Não,Solteiro (a),João Pessoa,2018-09-03T10:30:00.000+0000,0
+129,60+,Masculino,SP,Carapicuíba,SANTO ANTONIO,1228.0,Pretos,Ondulados,Não,Casado (a),Patos,2022-03-24T10:00:00.000+0000,0
+130,18-29,Transexual,PB,João Pessoa,Portal do sol,1633.0,Castanhos,Lisos,Não,União Estável,João Pessoa,2021-02-12T01:26:00.000+0000,0
+131,30-44,Masculino,PE,PIRAUA,Distrito Industrial,841.0,Castanhos,Nenhuma das opções,Não,Solteiro (a),Campina Grande,2023-04-15T06:00:00.000+0000,0
+132,45-59,Feminino,PB,João Pessoa,Castelo Branco,1730.0,Castanhos,Encaracolados,Não,Casado (a),João Pessoa,2020-11-07T15:00:00.000+0000,0
+133,18-29,Masculino,PB,Cubati,Zona Rural,-1.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+134,30-44,Masculino,PB,Santa Rita,Popular,1961.0,Castanhos,Nenhuma das opções,Não,Divorciado (a),João Pessoa,2020-03-20T23:00:00.000+0000,0
+135,45-59,Masculino,PB,Catingueira,Centro,982.0,Castanhos,Ondulados,Não,Solteiro (a),Desconhecido,2022-11-24T22:00:00.000+0000,0
+136,30-44,Masculino,PB,João Pessoa,Ernani Sátiro,-1.0,Castanhos,Lisos,Não,Casado (a),Desconhecido,Desconhecido,0
+137,60+,Masculino,PB,Cajazeiras,Altiplano Cabo Branco,547.0,Castanhos,Ondulados,Não,Casado (a),Mamanguape,2024-02-03T14:00:00.000+0000,0
+138,0-11,Masculino,SP,SAO PAULO,Alto da Boa Vista,2427.0,Pretos,Ondulados,Não,Solteiro (a),Bayeux,2018-12-11T10:00:00.000+0000,0
+139,30-44,Masculino,PE,Cabo de Santo Agostinho,Campo dos Alemães,1597.0,Pretos,Nenhuma das opções,Não,Solteiro (a),Conde,2021-03-20T18:00:00.000+0000,0
+140,12-17,Masculino,PB,Campina Grande,Nações,1134.0,Pretos,Encaracolados,Não,Solteiro (a),Campina Grande,2022-06-25T20:00:00.000+0000,0
+141,18-29,Masculino,PB,Cabedelo,bananeiras,724.0,Pretos,Encaracolados,Não,Solteiro (a),Cabedelo,2023-08-09T21:10:00.000+0000,0
+142,60+,Feminino,PB,Cacimba de Dentro,Bairro Palmeira,1936.0,Verdes,Lisos,Não,Viúvo (a),Desconhecido,2020-04-14T23:40:00.000+0000,0
+143,60+,Masculino,PB,joão Pessoa,Manaíra,1884.0,Pretos,Encaracolados,Não,Solteiro (a),João Pessoa,2020-06-06T16:13:00.000+0000,0
+144,12-17,Feminino,RJ,Rio de Janeiro,Santo Antônio,1314.0,Castanhos,Lisos,Sim,Solteiro (a),Patos,2021-12-28T00:00:00.000+0000,0
+145,30-44,Masculino,PB,João Pessoa,13 de maio,-1.0,Castanhos,Encaracolados,Não,Casado (a),Desconhecido,Desconhecido,0
+146,45-59,Masculino,PB,Campina Grande,Nova Brasília,-1.0,Pretos,Nenhuma das opções,Não,Solteiro (a),Desconhecido,Desconhecido,0
+147,45-59,Masculino,PE,Recife,SESI,-1.0,Pretos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+148,30-44,Masculino,PB,João Pessoa,Oitizeiro,1838.0,Castanhos,Ondulados,Sim,Solteiro (a),Bayeux,2020-07-22T02:17:00.000+0000,0
+149,60+,Masculino,PB,João Pessoa,Recife,1900.0,Verdes,Lisos,Não,Casado (a),João Pessoa,2020-05-20T23:00:00.000+0000,0
+150,18-29,Masculino,PB,SOLANEA,CENTRO,820.0,Pretos,Lisos,Não,Solteiro (a),João Pessoa,2023-05-06T19:30:00.000+0000,0
+151,60+,Masculino,PB,Recife,Mangabeira,996.0,Castanhos,Nenhuma das opções,Não,Solteiro (a),João Pessoa,2022-11-11T11:00:00.000+0000,0
+152,18-29,Masculino,SP,Sao Paulo,Planalto Boa Esperança,-1.0,Castanhos,Lisos,Não,União Estável,Desconhecido,Desconhecido,0
+153,30-44,Masculino,PB,Campina Grande,São José,-1.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+154,45-59,Feminino,PB,Campina Grande,Malvinas,-1.0,Castanhos,Ondulados,Não,Casado (a),Desconhecido,Desconhecido,0
+155,45-59,Masculino,PB,Campina Grande,Dinamérica,-1.0,Castanhos,Lisos,Não,União Estável,Desconhecido,Desconhecido,0
+156,30-44,Masculino,PB,Campina Grande,Malvinas,569.0,Castanhos,Encaracolados,Sim,Solteiro (a),Campina Grande,2024-01-12T13:00:00.000+0000,0
+157,12-17,Feminino,PB,Campina Grande,Centro,1312.0,Castanhos,Lisos,Não,Solteiro (a),Seridó,2021-12-30T12:10:00.000+0000,0
+158,18-29,Masculino,PB,Aroeiras,Centro,-1.0,Pretos,Encaracolados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+159,60+,Masculino,PE,Recife,Geremias,13573.0,Pretos,Encaracolados,Não,Solteiro (a),Campina Grande,1988-06-05T05:00:00.000+0000,0
+160,45-59,Masculino,PB,Conde,zona rural,1321.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,2021-12-21T15:00:00.000+0000,0
+161,30-44,Feminino,PB,Guarabira,Centro,1874.0,Pretos,Ondulados,Não,Solteiro (a),Guarabira,2020-06-16T15:10:00.000+0000,0
+162,30-44,Masculino,PB,Campina Grande,Jacumã,869.0,Pretos,Lisos,Não,Casado (a),Conde,2023-03-18T15:00:00.000+0000,0
+163,60+,Feminino,PB,João Pessoa,Bancarios,2415.0,Castanhos,Ondulados,Não,Casado (a),João Pessoa,2018-12-23T03:00:00.000+0000,0
+164,18-29,Feminino,PB,João Pessoa,colinas do sul,410.0,Pretos,Lisos,Não,Solteiro (a),João Pessoa,2024-06-19T12:15:00.000+0000,0
+165,18-29,Feminino,PB,Campina Grande,Malvinas,1784.0,Castanhos,Encaracolados,Não,Solteiro (a),Campina Grande,2020-09-14T18:00:00.000+0000,0
+166,60+,Masculino,PB,Campina Grande,Santa Rosa,698.0,Castanhos,Lisos,Não,Solteiro (a),Campina Grande,2023-09-05T12:30:00.000+0000,0
+167,30-44,Masculino,RN,MOSSORÓ,ESTAÇÃO,1946.0,Pretos,Carapinha,Não,Casado (a),Cajazeiras,2020-04-04T23:30:00.000+0000,0
+168,18-29,Masculino,PB,SAO JOSE DO SABUGI,CENTRO,836.0,Pretos,Lisos,Não,Solteiro (a),Santa Luzia,2023-04-20T17:00:00.000+0000,0
+169,12-17,Masculino,PB,Campina Grande,NAÇÕES,1262.0,Castanhos,Lisos,Não,Solteiro (a),Campina Grande,2022-02-18T17:00:00.000+0000,0
+170,45-59,Masculino,PB,Campina Grande,Liberdade,809.0,Castanhos,Lisos,Não,Casado (a),Campina Grande,2023-05-17T00:00:00.000+0000,0
+171,12-17,Feminino,PB,Campina Grande,Três Irmãs,-1.0,Castanhos,Encaracolados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+172,30-44,Masculino,PB,Campina Grande,Santa Rosa,-1.0,Pretos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+173,18-29,Masculino,PE,Santa Cruz do Capibaribe,Nova Palestina,1639.0,Pretos,Lisos,Não,Casado (a),Campina Grande,2021-02-05T23:22:00.000+0000,0
+174,30-44,Masculino,PB,Sitio arroz,Sitio arroz,1724.0,Castanhos,Ondulados,Não,Solteiro (a),Mamanguape,2020-11-13T12:24:00.000+0000,0
+175,45-59,Masculino,PB,João Pessoa,Castelo Branco,1153.0,Castanhos,Ondulados,Não,Casado (a),João Pessoa,2022-06-07T19:05:00.000+0000,0
+176,45-59,Masculino,PB,Santa Rita,TIBIRI,540.0,Pretos,Ondulados,Não,Solteiro (a),João Pessoa,2024-02-10T15:00:00.000+0000,0
+177,60+,Masculino,RN,Parelhas,Municípios,-1.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+178,45-59,Masculino,PB,Cajazeiras,Capoeiras,1798.0,Verdes,Lisos,Não,União Estável,Cajazeiras,2020-08-31T01:30:00.000+0000,0
+179,18-29,Masculino,PB,Campina Grande,São José da Mata,549.0,Castanhos,Ondulados,Não,Solteiro (a),Campina Grande,2024-01-31T21:20:00.000+0000,0
+180,12-17,Masculino,PB,Campina Grande,Malvinas,1033.0,Castanhos,Lisos,Não,Solteiro (a),Campina Grande,2022-10-05T16:30:00.000+0000,0
+181,60+,Masculino,RN,Natal,CENTRO,1655.0,Castanhos,Ondulados,Não,Divorciado (a),Desconhecido,2021-01-21T13:28:00.000+0000,0
+182,60+,Masculino,PB,Patos,Jardim Paulistano,787.0,Castanhos,Nenhuma das opções,Não,Casado (a),Campina Grande,2023-06-08T08:00:00.000+0000,0
+183,18-29,Masculino,PB,São José de Espinharas,Centro,-1.0,Castanhos,Ondulados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+184,0-11,Masculino,PB,João Pessoa,Treze de Maio,-1.0,Castanhos,Ondulados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+185,60+,Masculino,PB,Juripiranga,Centro,1907.0,Pretos,Ondulados,Não,Casado (a),Juripiranga,2020-05-14T13:30:00.000+0000,0
+186,60+,Masculino,PB,Santa Teresinha,Centro,1301.0,Pretos,Encaracolados,Não,Divorciado (a),Santa Teresinha,2022-01-10T14:00:00.000+0000,0
+187,12-17,Masculino,PB,Campina Grande,Alto Branco,1628.0,Castanhos,Ondulados,Não,Solteiro (a),Campina Grande,2021-02-17T16:50:00.000+0000,0
+188,30-44,Masculino,PE,Paulista,Miramar,410.0,Castanhos,Encaracolados,Não,Casado (a),João Pessoa,2024-06-18T21:38:00.000+0000,0
+189,60+,Masculino,PB,São José do Brejo do Cruz,Zona rural,1943.0,Pretos,Lisos,Não,Solteiro (a),São José do Brejo do Cruz,2020-04-08T07:00:00.000+0000,0
+190,45-59,Masculino,RJ,Campo Grande,Mangabeira,-1.0,Castanhos,Ondulados,Não,Divorciado (a),Desconhecido,Desconhecido,0
+191,60+,Masculino,PB,Juazeirinho,Valentina de Figueiredo,-1.0,Pretos,Nenhuma das opções,Não,Casado (a),Desconhecido,Desconhecido,0
+192,12-17,Masculino,PB,Conde,Bairro Novo,645.0,Pretos,Lisos,Sim,Solteiro (a),Conde,2023-10-28T11:28:00.000+0000,0
+193,45-59,Masculino,PB,SOLEDADE,BELA VISTA,-1.0,Pretos,Encaracolados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+194,0-11,Masculino,PB,Esperança,centro,1441.0,Castanhos,Ondulados,Sim,Solteiro (a),Esperança,2021-08-22T21:00:00.000+0000,0
+195,30-44,Masculino,PB,João Pessoa,Alto do Mateus,-1.0,Castanhos,Nenhuma das opções,Não,Solteiro (a),Desconhecido,Desconhecido,0
+196,18-29,Feminino,PB,Patos,Belo Horizonte,-1.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+197,12-17,Masculino,PB,Puxinanã,Zona Rural,1523.0,Castanhos,Lisos,Não,Solteiro (a),Puxinanã,2021-06-01T23:00:00.000+0000,0
+198,60+,Masculino,PB,Campina Grande,Bancarios,596.0,Pretos,Nenhuma das opções,Não,Casado (a),Desconhecido,2023-12-16T11:00:00.000+0000,0
+199,45-59,Masculino,PB,Campina Grande,BODOCONGÓ,2302.0,Pretos,Ondulados,Não,Solteiro (a),Lagoa Seca,2019-04-15T10:00:00.000+0000,0
+200,45-59,Feminino,PB,Campina Grande,Santo Antônio,-1.0,Pretos,Lisos,Não,Casado (a),Desconhecido,Desconhecido,0
+201,12-17,Masculino,PB,João Pessoa,Bessa,-1.0,Castanhos,Ondulados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+202,12-17,Feminino,PB,Guarabira,ALTO DA BOA VISTA,1082.0,Pretos,Lisos,Não,Solteiro (a),Guarabira,2022-08-16T21:00:00.000+0000,0
+203,12-17,Feminino,PB,João Pessoa,Valentina de Figueiredo,-1.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+204,30-44,Masculino,PB,João Pessoa,Expedicionários,1847.0,Castanhos,Encaracolados,Não,Solteiro (a),João Pessoa,2020-07-13T18:00:00.000+0000,0
+205,30-44,Masculino,PE,Jaboatão dos Guararapes,Zumbi do Pacheco,707.0,Castanhos,Nenhuma das opções,Não,Casado (a),Santa Rita,2023-08-26T20:30:00.000+0000,0
+206,60+,Masculino,PB,Goiana,Jaguaribe,1057.0,Pretos,Ondulados,Não,Casado (a),João Pessoa,2022-09-11T11:00:00.000+0000,0
+207,12-17,Masculino,PB,Salgado de São Félix,Pedro Gondim,1404.0,Castanhos,Carapinha,Não,Solteiro (a),João Pessoa,2021-09-29T12:30:00.000+0000,0
+208,60+,Masculino,PB,Campina Grande,Cuités,1868.0,Castanhos,Carapinha,Não,Casado (a),Campina Grande,2020-06-21T23:30:00.000+0000,0
+209,45-59,Masculino,SP,São Paulo,Manaíra,1140.0,Castanhos,Ondulados,Não,Casado (a),João Pessoa,2022-06-20T00:42:00.000+0000,0
+210,30-44,Masculino,PB,João Pessoa,Mangabeira 4,1887.0,Pretos,Nenhuma das opções,Não,Solteiro (a),João Pessoa,2020-06-03T11:00:00.000+0000,0
+211,18-29,Feminino,PB,João Pessoa,Gramame,1875.0,Castanhos,Encaracolados,Não,Solteiro (a),João Pessoa,2020-06-15T16:00:00.000+0000,0
+212,60+,Masculino,RJ,Rio de Janeiro,Intermares,-1.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+213,45-59,Masculino,PB,São João do Rio do Peixe,CENTRO,1881.0,Castanhos,Lisos,Não,Casado (a),São João do Rio do Peixe,2020-06-09T19:13:00.000+0000,0
+214,60+,Masculino,PE,Igarassu,Sitio cabana,1911.0,Verdes,Nenhuma das opções,Não,Viúvo (a),Pedras de Fogo,2020-05-10T12:00:00.000+0000,0
+215,45-59,Masculino,RJ,Rio de Janeiro,Centro,-1.0,Castanhos,Lisos,Não,Divorciado (a),Desconhecido,Desconhecido,0
+216,45-59,Masculino,PB,Guarabira,Tambiá,1205.0,Castanhos,Lisos,Não,Casado (a),João Pessoa,2022-04-16T02:52:00.000+0000,0
+217,12-17,Outro,PB,joao pessoa,centro,1122.0,Pretos,Lisos,Não,Solteiro (a),Cabedelo,2022-07-08T12:50:00.000+0000,0
+218,30-44,Masculino,PB,Campina Grande,Jardim Oceania,-1.0,Castanhos,Ondulados,Não,União Estável,Desconhecido,Desconhecido,0
+219,30-44,Masculino,PB,João Pessoa tá,Mangabeira 7,1955.0,Verdes,Lisos,Sim,União Estável,Desconhecido,2020-03-27T14:00:00.000+0000,0
+220,30-44,Feminino,PB,Solânea,CENTRO,-1.0,Castanhos,Lisos,Sim,Viúvo (a),Desconhecido,Desconhecido,0
+221,30-44,Masculino,PE,Paulista,Miramar,-1.0,Castanhos,Nenhuma das opções,Não,Solteiro (a),Desconhecido,Desconhecido,0
+222,45-59,Masculino,PB,ITABAIANA,Valentina de Figueiredo,-1.0,Castanhos,Nenhuma das opções,Não,Casado (a),Desconhecido,Desconhecido,0
+223,45-59,Feminino,PB,Cabedelo,Centro,-1.0,Pretos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+224,30-44,Masculino,PB,Cabedelo,Ponta de Matos,1501.0,Pretos,Ondulados,Não,Solteiro (a),Cabedelo,2021-06-24T02:00:00.000+0000,0
+225,30-44,Masculino,PB,João Pessoa,Valentina,426.0,Nenhuma das opções,Encaracolados,Não,Casado (a),João Pessoa,2024-06-03T11:30:00.000+0000,0
+226,18-29,Masculino,SP,Arujá,Zona Rural,1540.0,Castanhos,Carapinha,Não,União Estável,Itaporanga,2021-05-15T23:50:00.000+0000,0
+227,12-17,Masculino,PB,Campina Grande,Bodocongo,1506.0,Pretos,Ondulados,Não,Solteiro (a),Campina Grande,2021-06-19T13:00:00.000+0000,0
+228,18-29,Masculino,PB,Catingueira,Sítio Curtume,971.0,Pretos,Encaracolados,Sim,Solteiro (a),Catingueira,2022-12-05T23:14:00.000+0000,0
+229,12-17,Masculino,PB,Patos,Brasília,1956.0,Castanhos,Ondulados,Sim,Solteiro (a),Patos,2020-03-26T15:00:00.000+0000,0
+230,12-17,Masculino,PB,João Pessoa,Paratibe,1475.0,Castanhos,Carapinha,Não,Solteiro (a),João Pessoa,2021-07-20T19:00:00.000+0000,0
+231,18-29,Masculino,PB,Areial,Centro,481.0,Castanhos,Lisos,Sim,Solteiro (a),Areial,2024-04-09T14:30:00.000+0000,0
+232,12-17,Feminino,PB,Patos,Belo Horizonte,1315.0,Castanhos,Lisos,Sim,Solteiro (a),Patos,2021-12-27T19:47:00.000+0000,0
+233,45-59,Masculino,PB,Itabaiana,bela vista,1923.0,Azuis,Lisos,Não,Solteiro (a),Desconhecido,2020-04-28T11:00:00.000+0000,0
+234,45-59,Masculino,PB,Itaporanga,Bela vista,-1.0,Pretos,Ondulados,Não,Casado (a),Desconhecido,Desconhecido,0
+235,12-17,Masculino,PB,João Pessoa,Centro,1504.0,Castanhos,Encaracolados,Não,Solteiro (a),Lagoa Seca,2021-06-20T23:40:00.000+0000,0
+236,30-44,Masculino,PB,campina grande,prata,-1.0,Castanhos,Ondulados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+237,12-17,Feminino,PB,Santa Rita,"Tibiri, heitel",974.0,Pretos,Lisos,Não,Solteiro (a),João Pessoa,2022-12-02T22:30:00.000+0000,0
+238,12-17,Masculino,PB,Campina Grande,NAÇÕES,1277.0,Castanhos,Carapinha,Não,Solteiro (a),Campina Grande,2022-02-03T14:00:00.000+0000,0
+239,60+,Masculino,DF,Itaporanga,Centro,1265.0,Pretos,Nenhuma das opções,Não,Casado (a),Itaporanga,2022-02-15T11:00:00.000+0000,0
+240,30-44,Masculino,PB,João Pessoa,Castelo Branco,1092.0,Pretos,Lisos,Não,Solteiro (a),João Pessoa,2022-08-07T13:23:00.000+0000,0
+241,18-29,Masculino,PB,João Pessoa,Planalto Boa Esperança,-1.0,Castanhos,Lisos,Sim,Solteiro (a),Desconhecido,Desconhecido,0
+242,45-59,Feminino,PB,Taperoa,Bodocongó,1869.0,Castanhos,Lisos,Não,Solteiro (a),Campina Grande,2020-06-21T09:30:00.000+0000,0
+243,60+,Feminino,PB,Vieirópolis,ZONA RURAL,2210.0,Pretos,Ondulados,Não,Viúvo (a),Vieirópolis,2019-07-16T08:00:00.000+0000,0
+244,18-29,Masculino,PB,Gurjão,Centro,1082.0,Castanhos,Lisos,Não,Casado (a),São João do Cariri,2022-08-17T11:00:00.000+0000,0
+245,12-17,Masculino,PB,Juazeirinho,Jardim Aeroporto,1756.0,Castanhos,Encaracolados,Não,Solteiro (a),Bayeux,2020-10-11T23:39:00.000+0000,0
+246,30-44,Masculino,PB,Santa Rita,Varzea nova,1509.0,Castanhos,Encaracolados,Não,Solteiro (a),Santa Rita,2021-06-16T06:00:00.000+0000,0
+247,45-59,Feminino,RN,Serra de São Bento,Altiplano Cabo Branco,-1.0,Castanhos,Encaracolados,Não,Viúvo (a),Desconhecido,Desconhecido,0
+248,30-44,Masculino,PB,Campina Grande,Três Irmãs,1280.0,Castanhos,Ondulados,Não,Solteiro (a),Campina Grande,2022-01-31T18:45:00.000+0000,0
+249,18-29,Masculino,PB,Joao Pessoa,Altiplano Cabo Branco,-1.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+250,45-59,Masculino,RJ,Rio de Janeiro,CENTRO,2813.0,Castanhos,Lisos,Não,Casado (a),Aparecida,2017-11-20T18:00:00.000+0000,0
+251,18-29,Masculino,PB,São Francisco,Zona Rural,1856.0,Pretos,Lisos,Sim,Solteiro (a),São Francisco,2020-07-03T22:00:00.000+0000,0
+252,45-59,Masculino,PB,Cajazeiras,Mandacaru,667.0,Castanhos,Nenhuma das opções,Não,Solteiro (a),João Pessoa,2023-10-06T16:59:00.000+0000,0
+253,30-44,Masculino,CE,Parambu,Cidades,-1.0,Castanhos,Lisos,Sim,Solteiro (a),Desconhecido,Desconhecido,0
+254,30-44,Masculino,PB,Patos,Jatobá,1429.0,Castanhos,Lisos,Não,Solteiro (a),Patos,2021-09-04T06:30:00.000+0000,0
+255,0-11,Feminino,PB,Campina Grande,Alto Branco,710.0,Castanhos,Carapinha,Não,Solteiro (a),Campina Grande,2023-08-24T15:00:00.000+0000,0
+256,18-29,Masculino,PB,Campina Grande,Tambor,2528.0,Duas Cores,Lisos,Não,Solteiro (a),Campina Grande,2018-09-01T17:00:00.000+0000,0
+257,18-29,Masculino,PE,Camutanga,IBIRANGA,-1.0,Pretos,Encaracolados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+258,30-44,Masculino,PE,Itambé,Zona Rural,934.0,Castanhos,Ondulados,Não,Casado (a),Pedras de Fogo,2023-01-12T02:00:00.000+0000,0
+259,12-17,Feminino,PB,Campina Grande,CENTRO,2361.0,Pretos,Encaracolados,Não,Solteiro (a),Itatuba,2019-02-15T19:30:00.000+0000,0
+260,60+,Masculino,PB,Tacima,Centro,7191.0,Castanhos,Ondulados,Não,Casado (a),Santa Rita,2005-11-25T12:00:00.000+0000,0
+261,0-11,Masculino,PB,Campina Grande,Centro,1010.0,Castanhos,Lisos,Sim,Solteiro (a),Lagoa Seca,2022-10-27T20:10:00.000+0000,0
+262,30-44,Feminino,PB,Juru,Gramame,1398.0,Castanhos,Ondulados,Sim,Casado (a),João Pessoa,2021-10-04T20:00:00.000+0000,0
+263,30-44,Masculino,PB,João Pessoa,Aeroclube,-1.0,Castanhos,Encaracolados,Não,Casado (a),Desconhecido,Desconhecido,0
+264,18-29,Feminino,PB,Bayeux,Centro,1375.0,Castanhos,Lisos,Não,Casado (a),Bayeux,2021-10-27T22:00:00.000+0000,0
+265,45-59,Masculino,MA,SAO SEBASTIAO,Jardim Elba,1751.0,Azuis,Lisos,Não,Solteiro (a),João Pessoa,2020-10-17T19:40:00.000+0000,0
+266,45-59,Masculino,PE,Recife,Zona rural,1436.0,Castanhos,Nenhuma das opções,Não,Casado (a),Aroeiras,2021-08-28T17:30:00.000+0000,0
+267,60+,Masculino,PB,Cajazeiras,zona rural,-1.0,Castanhos,Carapinha,Não,Casado (a),Desconhecido,Desconhecido,0
+268,18-29,Masculino,PB,Campina grande,Velame,847.0,Castanhos,Ondulados,Não,Solteiro (a),Campina Grande,2023-04-09T00:08:00.000+0000,0
+269,60+,Masculino,PB,Campina Grande,Catolé,878.0,Castanhos,Nenhuma das opções,Não,Casado (a),Campina Grande,2023-03-09T14:00:00.000+0000,0
+270,30-44,Masculino,PB,Campina Grande,Sandra Cavalcante,-1.0,Castanhos,Nenhuma das opções,Não,Casado (a),Desconhecido,Desconhecido,0
+271,18-29,Masculino,PB,João Pessoa,Torre,1529.0,Castanhos,Lisos,Não,Solteiro (a),João Pessoa,2021-05-27T13:00:00.000+0000,0
+272,45-59,Masculino,PB,MARI,CENTRO,1640.0,Castanhos,Lisos,Não,Solteiro (a),João Pessoa,2021-02-04T22:00:00.000+0000,0
+273,18-29,Masculino,PB,Araruna,CENTRO,1436.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,2021-08-28T10:00:00.000+0000,0
+274,30-44,Masculino,PB,São Paulo,Portal do Sol,1482.0,Castanhos,Lisos,Não,Solteiro (a),João Pessoa,2021-07-13T10:30:00.000+0000,0
+275,12-17,Masculino,PB,João Pessoa,Jardim Aeroporto,737.0,Castanhos,Encaracolados,Sim,Solteiro (a),Bayeux,2023-07-28T06:30:00.000+0000,0
+276,30-44,Feminino,PE,VICENCIA,SESI,860.0,Pretos,Ondulados,Não,Viúvo (a),Bayeux,2023-03-27T09:00:00.000+0000,0
+277,60+,Masculino,PB,Campina Grande,Jaguaribe,1929.0,Pretos,Lisos,Não,Divorciado (a),João Pessoa,2020-04-22T16:30:00.000+0000,0
+278,0-11,Feminino,PB,João Pessoa,Marcos Moura,-1.0,Castanhos,Encaracolados,Sim,Solteiro (a),Desconhecido,Desconhecido,0
+279,12-17,Feminino,PB,Itabaiana,Brejinho,1947.0,Castanhos,Lisos,Não,Solteiro (a),Itabaiana,2020-04-04T02:30:00.000+0000,0
+280,60+,Masculino,PB,Sousa,Tambauzinho,527.0,Pretos,Lisos,Não,Solteiro (a),João Pessoa,2024-02-23T17:55:00.000+0000,0
+281,60+,Feminino,CE,Fortaleza,Camboinha II,578.0,Azuis,Lisos,Não,Casado (a),Cabedelo,2024-01-03T18:30:00.000+0000,0
+282,12-17,Masculino,MA,Penalva,CENTRO,-1.0,Pretos,Ondulados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+283,60+,Feminino,PB,Itabaiana,Nova Descoberta,1639.0,Castanhos,Lisos,Sim,Viúvo (a),João Pessoa,2021-02-06T12:00:00.000+0000,0
+284,60+,Masculino,PB,João Pessoa,Manaíra,1060.0,Azuis,Nenhuma das opções,Não,Solteiro (a),João Pessoa,2022-09-08T08:00:00.000+0000,0
+285,30-44,Masculino,PB,João Pessoa,Ernani Sátiro,8674.0,Pretos,Lisos,Não,Solteiro (a),João Pessoa,2001-11-03T09:00:00.000+0000,0
+286,12-17,Feminino,PB,João Pessoa,Centro,-1.0,Pretos,Ondulados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+287,30-44,Feminino,PB,junco do serido,Louzeiro,1999.0,Pretos,Encaracolados,Não,Solteiro (a),Campina Grande,2020-02-11T21:00:00.000+0000,0
+288,45-59,Masculino,PB,Itaporanga,ALTO DAS NEVES,677.0,Castanhos,Nenhuma das opções,Não,Divorciado (a),Desconhecido,2023-09-26T10:00:00.000+0000,0
+289,18-29,Masculino,PB,Sapé,Ipês,1560.0,Castanhos,Lisos,Não,Solteiro (a),João Pessoa,2021-04-26T13:30:00.000+0000,0
+290,18-29,Masculino,PB,Ibiara,Ibiara,760.0,Castanhos,Nenhuma das opções,Não,União Estável,Ibiara,2023-07-05T00:03:00.000+0000,0
+291,30-44,Masculino,PE,Recife,Valentina de Figueiredo,1011.0,Castanhos,Carapinha,Não,Solteiro (a),João Pessoa,2022-10-26T21:25:00.000+0000,0
+292,30-44,Masculino,PB,Belém do Brejo do Cruz,Comercial Norte,706.0,Castanhos,Carapinha,Não,Solteiro (a),Bayeux,2023-08-28T08:00:00.000+0000,0
+293,18-29,Masculino,AM,Manaus,Amazônino mendes,1502.0,Castanhos,Ondulados,Não,Solteiro (a),Cabedelo,2021-06-22T20:00:00.000+0000,0
+294,0-11,Masculino,PB,João Pessoa,Mangabeira,2287.0,Nenhuma das opções,Nenhuma das opções,Não,Solteiro (a),João Pessoa,2019-04-30T19:30:00.000+0000,0
+295,0-11,Masculino,PB,Queimadas,Loteamento Luna,-1.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+296,0-11,Masculino,PB,Esperança,CENTRO,1441.0,Verdes,Ondulados,Sim,Solteiro (a),Esperança,2021-08-22T21:00:00.000+0000,0
+297,60+,Masculino,PE,Afogados da Ingazeira,Serrano,4688.0,Castanhos,Lisos,Não,Casado (a),João Pessoa,2012-10-02T03:00:00.000+0000,0
+298,12-17,Feminino,PB,CUITÉ,CENTRO,703.0,Pretos,Ondulados,Sim,Solteiro (a),Solânea,2023-08-31T14:30:00.000+0000,0
+299,60+,Feminino,PB,Campina Grande,Bodocongó,1626.0,Castanhos,Carapinha,Não,Solteiro (a),Campina Grande,2021-02-19T10:00:00.000+0000,0
+300,12-17,Feminino,PB,João Pessoa,Mangabeira,1631.0,Pretos,Encaracolados,Sim,Solteiro (a),João Pessoa,2021-02-13T21:00:00.000+0000,0
+301,12-17,Feminino,PB,JOAO PESSOA,Varjão,1525.0,Castanhos,Encaracolados,Não,Solteiro (a),João Pessoa,2021-05-31T14:30:00.000+0000,0
+302,0-11,Feminino,PB,Campina Grande,Alto Branco,846.0,Castanhos,Encaracolados,Sim,Solteiro (a),Campina Grande,2023-04-10T16:30:00.000+0000,0
+303,45-59,Masculino,PB,Campina Grande,José Pinheiro,-1.0,Verdes,Ondulados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+304,60+,Feminino,PB,João Pessoa,Mandacaru,779.0,Pretos,Lisos,Não,Viúvo (a),João Pessoa,2023-06-16T10:00:00.000+0000,0
+305,60+,Feminino,PB,João Pessoa,Brisamar,1277.0,Castanhos,Lisos,Não,Divorciado (a),João Pessoa,2022-02-02T22:30:00.000+0000,0
+306,12-17,Feminino,PB,Campina Grande,Acácio Figueiredo,1914.0,Castanhos,Encaracolados,Não,Solteiro (a),Campina Grande,2020-05-06T20:11:00.000+0000,0
+307,12-17,Masculino,SC,Joinville,Miramar,2255.0,Castanhos,Lisos,Não,Solteiro (a),João Pessoa,2019-05-31T22:15:00.000+0000,0
+308,45-59,Feminino,BA,Ribeira do Amparo,Beijar Flor,-1.0,Castanhos,Ondulados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+309,30-44,Masculino,PB,Baía da Traição,ZONA RURAL,-1.0,Pretos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+310,18-29,Masculino,PB,Campina Grande,Castelo Branco,988.0,Castanhos,Ondulados,Não,Solteiro (a),Desconhecido,2022-11-18T23:00:00.000+0000,0
+311,18-29,Feminino,PB,Patos,Jatobá,1632.0,Pretos,Lisos,Sim,Solteiro (a),Patos,2021-02-13T08:00:00.000+0000,0
+312,60+,Masculino,PB,Campina Grande,Torre,428.0,Castanhos,Nenhuma das opções,Não,Solteiro (a),João Pessoa,2024-06-01T17:46:00.000+0000,0
+313,30-44,Masculino,PE,Solanea,Cajá,1346.0,Castanhos,Ondulados,Não,Solteiro (a),Solânea,2021-11-26T17:00:00.000+0000,0
+314,30-44,Masculino,RN,Natal,Ernesto Geisel,-1.0,Castanhos,Ondulados,Sim,Casado (a),João Pessoa,0222-11-03T17:36:00.000+0000,0
+315,45-59,Masculino,PI,Teresina,Tomás Coelho,1331.0,Castanhos,Nenhuma das opções,Não,Divorciado (a),João Pessoa,2021-12-11T01:15:00.000+0000,0
+316,18-29,Masculino,PB,Sousa,Estação,-1.0,Castanhos,Nenhuma das opções,Sim,Solteiro (a),Desconhecido,Desconhecido,0
+317,30-44,Masculino,SP,Guarulhos,Municípios,488.0,Castanhos,Carapinha,Não,Solteiro (a),Santa Rita,2024-04-02T08:30:00.000+0000,0
+318,45-59,Feminino,PB,Itaporanga,Centro,-1.0,Pretos,Encaracolados,Não,Casado (a),Desconhecido,Desconhecido,0
+319,45-59,Masculino,PB,Serido,Centro,-1.0,Castanhos,Encaracolados,Não,Casado (a),Desconhecido,Desconhecido,0
+320,30-44,Masculino,PB,João Pessoa,Ernesto Geisel,1102.0,Pretos,Lisos,Não,Casado (a),João Pessoa,2022-07-28T00:00:00.000+0000,0
+321,60+,Masculino,PB,Pombal,Nova vida,1913.0,Castanhos,Nenhuma das opções,Não,Casado (a),Pombal,2020-05-08T19:30:00.000+0000,0
+322,0-11,Feminino,PB,João Pessoa,Grotão,772.0,Castanhos,Ondulados,Não,Divorciado (a),João Pessoa,2023-06-23T19:10:00.000+0000,0
+323,30-44,Feminino,PR,João pessoa,Jaguaribe,722.0,Castanhos,Encaracolados,Sim,Solteiro (a),João Pessoa,2023-08-12T01:00:00.000+0000,0
+324,30-44,Masculino,PB,Patos,Santo Antônio,1958.0,Verdes,Lisos,Não,Solteiro (a),Patos,2020-03-24T15:28:00.000+0000,0
+325,18-29,Masculino,PB,João Pessoa,Centro,755.0,Pretos,Encaracolados,Não,Solteiro (a),João Pessoa,2023-07-10T17:30:00.000+0000,0
+326,60+,Masculino,RO,Porto Velho,Aeroclube,-1.0,Castanhos,Ondulados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+327,30-44,Masculino,CE,Fortaleza,Itararé,1865.0,Castanhos,Lisos,Sim,Solteiro (a),Campina Grande,2020-06-25T02:13:00.000+0000,0
+328,45-59,Masculino,PB,Campina Grande,SAO JOSE DA MATA,-1.0,Pretos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+329,30-44,Feminino,PB,João Pessoa,Mangabeira,8257.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,2002-12-25T14:30:00.000+0000,0
+330,30-44,Feminino,PE,Recife,Municípios,456.0,Castanhos,Ondulados,Não,Casado (a),Santa Rita,2024-05-04T18:00:00.000+0000,0
+331,18-29,Masculino,PR,Umuarama,centro,-1.0,Pretos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+332,12-17,Feminino,PB,João Pessoa,CENTRO,-1.0,Pretos,Ondulados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+333,45-59,Masculino,PB,Patos,Gramame,1062.0,Castanhos,Nenhuma das opções,Não,Solteiro (a),João Pessoa,2022-09-06T06:00:00.000+0000,0
+334,0-11,Masculino,SC,Petrolândia,Murta,-1.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+335,60+,Masculino,PB,Guarabira,Nordeste,476.0,Pretos,Nenhuma das opções,Sim,Solteiro (a),Guarabira,2024-04-13T23:00:00.000+0000,0
+336,30-44,Masculino,SP,Ipiranga,Torre,1215.0,Castanhos,Ondulados,Não,Solteiro (a),João Pessoa,2022-04-06T10:15:00.000+0000,0
+337,12-17,Feminino,PB,SANTA RITA,MARCOS MOURA,1840.0,Castanhos,Lisos,Não,Solteiro (a),Santa Rita,2020-07-20T11:00:00.000+0000,0
+338,30-44,Feminino,PB,Sesi,Sesi,1963.0,Pretos,Lisos,Não,Solteiro (a),Bayeux,2020-03-19T16:00:00.000+0000,0
+339,45-59,Masculino,PB,Campina Grande,Três irmãs,-1.0,Castanhos,Ondulados,Não,Casado (a),Desconhecido,Desconhecido,0
+340,30-44,Masculino,PB,João Pessoa,Manaíra,1442.0,Castanhos,Lisos,Não,Divorciado (a),João Pessoa,2021-08-21T21:00:00.000+0000,0
+341,18-29,Masculino,PB,Mari,PASTO NOVO,1743.0,Pretos,Carapinha,Não,Solteiro (a),Mari,2020-10-24T21:30:00.000+0000,0
+342,30-44,Masculino,PB,João Pessoa,Velame,1454.0,Castanhos,Lisos,Não,Casado (a),Campina Grande,2021-08-09T21:00:00.000+0000,0
+343,12-17,Masculino,PB,João Pessoa,Jaguaribe,-1.0,Castanhos,Encaracolados,Sim,Solteiro (a),Desconhecido,Desconhecido,0
+344,45-59,Masculino,PR,Telemaco Borba,Cabo Branco,1620.0,Castanhos,Ondulados,Não,Divorciado (a),João Pessoa,2021-02-25T11:30:00.000+0000,0
+345,18-29,Masculino,PB,São José de Piranhas,Barraginha,1856.0,Castanhos,Encaracolados,Não,Solteiro (a),Desconhecido,2020-07-03T20:00:00.000+0000,0
+346,30-44,Masculino,PB,João Pessoa,Centro,1266.0,Castanhos,Ondulados,Não,Solteiro (a),João Pessoa,2022-02-14T15:30:00.000+0000,0
+347,30-44,Masculino,PB,Mari,ZONA RURAL,1489.0,Pretos,Ondulados,Não,Solteiro (a),Mari,2021-07-06T17:00:00.000+0000,0
+348,30-44,Masculino,PB,Guarabira,Lucas porpino,-1.0,Castanhos,Encaracolados,Sim,Solteiro (a),Desconhecido,Desconhecido,0
+349,60+,Feminino,PB,Puxinanã,José Pinheiro,1852.0,Castanhos,Lisos,Não,Divorciado (a),Campina Grande,2020-07-08T01:57:00.000+0000,0
+350,45-59,Masculino,PB,St caranguegeira,Caranguejeira,-1.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+351,Não informado,Masculino,PB,João Pessoa,Centro,1257.0,Castanhos,Ondulados,Sim,Solteiro (a),João Pessoa,2022-02-23T13:25:00.000+0000,0
+352,18-29,Feminino,SP,GUARULHOS,ZONA RURAL,-1.0,Pretos,Encaracolados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+353,45-59,Feminino,PB,João Pessoa,Centro,-1.0,Pretos,Nenhuma das opções,Não,Divorciado (a),Desconhecido,Desconhecido,0
+354,18-29,Masculino,PB,Sapé,Coqueiros,-1.0,Castanhos,Carapinha,Não,Solteiro (a),Desconhecido,Desconhecido,0
+355,30-44,Masculino,PB,Solânea,Zona Rural,1907.0,Pretos,Encaracolados,Não,Solteiro (a),Solânea,2020-05-13T21:30:00.000+0000,0
+356,30-44,Masculino,RJ,Niterói,Bairro da Caixa Economica,1079.0,Castanhos,Lisos,Não,Divorciado (a),Desconhecido,2022-08-20T19:00:00.000+0000,0
+357,12-17,Feminino,PB,Joao pessoa,Paratibe,1490.0,Castanhos,Ondulados,Não,Solteiro (a),João Pessoa,2021-07-05T12:20:00.000+0000,0
+358,18-29,Transexual,RJ,Rio de Janeiro,Sesi,1340.0,Castanhos,Lisos,Não,Solteiro (a),Bayeux,2021-12-02T18:58:00.000+0000,0
+359,60+,Masculino,PB,Bananeiras,centro,-1.0,Castanhos,Ondulados,Não,Casado (a),Desconhecido,Desconhecido,0
+360,60+,Feminino,PB,João Pessoa,Estados,-1.0,Castanhos,Encaracolados,Não,Divorciado (a),Desconhecido,Desconhecido,0
+361,60+,Masculino,RJ,Rio de Janeiro,Botafogo,1086.0,Castanhos,Lisos,Não,Casado (a),Gurjão,2022-08-13T13:30:00.000+0000,0
+362,30-44,Masculino,PB,Campina Grande,Jardim Tavares,2047.0,Castanhos,Carapinha,Sim,Solteiro (a),Campina Grande,2019-12-26T12:00:00.000+0000,0
+363,18-29,Outro,RN,Jardim do Seridó,Sesi,1503.0,Castanhos,Ondulados,Não,Solteiro (a),Bayeux,2021-06-22T11:00:00.000+0000,0
+364,12-17,Feminino,PB,João Pessoa,Gramame,1650.0,Castanhos,Ondulados,Não,Solteiro (a),Desconhecido,2021-01-25T20:50:00.000+0000,0
+365,30-44,Feminino,SP,taubate,Jardim Independência,532.0,Castanhos,Ondulados,Sim,Solteiro (a),Assunção,2024-02-18T15:20:00.000+0000,0
+366,12-17,Masculino,PB,Cacimba de Dentro,Mandacaru,-1.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+367,60+,Feminino,PB,Campina Grande,Jardim Tavares,1684.0,Verdes,Lisos,Não,Viúvo (a),Desconhecido,2020-12-23T15:59:00.000+0000,0
+368,30-44,Masculino,PB,João Pessoa,Não sei,955.0,Castanhos,Nenhuma das opções,Não,Solteiro (a),Desconhecido,2022-12-22T10:00:00.000+0000,0
+369,30-44,Masculino,PB,Pau dos ferros,Nossa senhora de lurdes,1178.0,Castanhos,Ondulados,Não,União Estável,Uiraúna,2022-05-12T22:57:00.000+0000,0
+370,12-17,Masculino,PB,João Pessoa,JACARAPÉ,-1.0,Pretos,Encaracolados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+371,12-17,Masculino,PB,Santa Rita,SANTA LUZIA,1909.0,Pretos,Lisos,Não,Solteiro (a),Sapé,2020-05-12T18:00:00.000+0000,0
+372,45-59,Masculino,AL,Arapiraca,Primavera,-1.0,Castanhos,Ondulados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+373,45-59,Masculino,RN,Carnaúba dos Dantas,Centro,-1.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+374,12-17,Feminino,PB,Campina Grande,Catolé,492.0,Castanhos,Encaracolados,Não,Solteiro (a),Campina Grande,2024-03-29T17:50:00.000+0000,0
+375,12-17,Masculino,PB,Patos,Centro,1803.0,Pretos,Nenhuma das opções,Não,Solteiro (a),Maturéia,2020-08-26T10:30:00.000+0000,0
+376,18-29,Masculino,CE,Acopiara,Centro,715.0,Pretos,Lisos,Não,Solteiro (a),Pocinhos,2023-08-19T17:30:00.000+0000,0
+377,30-44,Masculino,PB,Patos,Bivar Olinto,1119.0,Pretos,Nenhuma das opções,Não,Solteiro (a),Patos,2022-07-10T22:00:00.000+0000,0
+378,0-11,Masculino,PB,Cuité,Zona rural cuité,1694.0,Pretos,Nenhuma das opções,Não,Solteiro (a),Cuité,2020-12-13T03:00:00.000+0000,0
+379,12-17,Masculino,PB,João Pessoa,Jaguaribe,-1.0,Pretos,Encaracolados,Sim,Solteiro (a),Desconhecido,Desconhecido,0
+380,30-44,Masculino,SP,Ferraz de Vasconcelos,Araxá,1462.0,Pretos,Lisos,Não,União Estável,Campina Grande,2021-08-02T19:15:00.000+0000,0
+381,45-59,Masculino,PB,Puxinanã,Centro,-1.0,Castanhos,Lisos,Não,Solteiro (a),Desconhecido,Desconhecido,0
+382,60+,Masculino,PB,Sapé,Popular,1599.0,Pretos,Lisos,Não,Viúvo (a),Santa Rita,2021-03-18T09:00:00.000+0000,0
+383,60+,Masculino,PB,João Pessoa,Mangabeira,433.0,Castanhos,Nenhuma das opções,Não,Casado (a),João Pessoa,2024-05-27T12:00:00.000+0000,0
+384,18-29,Masculino,PB,Guarabira,SITIO,-1.0,Castanhos,Encaracolados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+385,12-17,Masculino,PB,Patos,FREI DAMIAO,-1.0,Pretos,Encaracolados,Não,Solteiro (a),Desconhecido,Desconhecido,0
+386,60+,Masculino,PB,Alhandra,Torre,-1.0,Pretos,Ondulados,Sim,Casado (a),Desconhecido,Desconhecido,0
