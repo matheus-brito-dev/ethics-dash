@@ -72,44 +72,6 @@ try:
             driver.switch_to.window(driver.window_handles[1])
             time.sleep(5)
 
-            # 🔽 Coleta imagem dentro da página individual
-            # try:
-            #     img_element = driver.find_element(By.CSS_SELECTOR, 'figure.image img')
-            #     img_src = img_element.get_attribute('src')
-            #
-            #     if img_src:
-            #         if img_src.startswith('data:image'):  # imagem embutida em base64
-            #             # separa o prefixo 'data:image/jpeg;base64,' do conteúdo
-            #             base64_data = img_src.split(',')[1]
-            #             base64_data = base64_data.replace('\n', '').replace('\r', '').replace(' ', '')
-            #             missing_padding = len(base64_data) % 4
-            #             print(f"[DEBUG] Salvando imagem do card {i}")
-            #             print(f"[DEBUG] Base64 começa com: {img_src[:30]}")
-            #             print(f"[DEBUG] Tamanho base64: {len(base64_data)}")
-            #             if missing_padding:
-            #                 base64_data += '=' * (4 - missing_padding)
-            #             nome_arquivo = f"images/pessoa_{i}.jpg"
-            #             with open(nome_arquivo, 'wb') as f:
-            #                 f.write(base64.b64decode(base64_data))
-            #             detalhes_extraidos["imagem_local"] = nome_arquivo
-            #         elif "no-picture" not in img_src:  # imagem externa comum
-            #             response = requests.get(img_src, stream=True)
-            #             if response.status_code == 200:
-            #                 nome_arquivo = f"images/pessoa_{i}.jpg"
-            #                 with open(nome_arquivo, 'wb') as f:
-            #                     for chunk in response.iter_content(1024):
-            #                         f.write(chunk)
-            #                 detalhes_extraidos["imagem_local"] = nome_arquivo
-            #             else:
-            #                 detalhes_extraidos["imagem_local"] = "Erro ao baixar imagem"
-            #         else:
-            #             detalhes_extraidos["imagem_local"] = "Sem imagem"
-            #     else:
-            #         detalhes_extraidos["imagem_local"] = "Sem imagem"
-            #
-            # except Exception as e:
-            #     print(f"Erro ao baixar imagem do card {i}: {e}")
-            #     detalhes_extraidos["imagem_local"] = "Erro ao extrair imagem"
 
             # 🔽 Extrai detalhes da pessoa
             try:

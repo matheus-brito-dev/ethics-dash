@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import time
 import plotly.express as px
-
 from geopy.geocoders import Nominatim
 
 # Configuração da página
